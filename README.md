@@ -24,7 +24,7 @@ To change the metric colours,  add this to the CSS section of the Custom Widget 
 ```
 
 ## Set up and Dependencies
-Add `dailyBars.initialize()` to the JS section, and add the below dependencies to the second tab of the Custom Widget Editor.
+Add `dailyBars.initialize();` to the JS section, and add the below dependencies to the second tab of the Custom Widget Editor.
 
 Script dependencies (must be loaded in this order):
 1. https://d3js.org/d3.v5.min.js
