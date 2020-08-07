@@ -1,4 +1,4 @@
-# datorama-d3-daily-bars-many-dimensions
+# datorama-d3-bar-pivot
 Custom widget for Datorama. Visualises up to four metrics, daily, over many dimensions.
 
 This custom widget creates separate partitions for each dimension you add, and visualises up to four measurements in each day. Mouseover a day for exact figures, explore your data with the controls at the top, and collapse hierarchies you don't need to see.
