@@ -13,7 +13,6 @@ var barScalingChoice = 'local'; // Options: 'local', 'global'
 ```
 
 ## Common Style Changes
-### Change the colours of the bars of each individual metric
 To change the metric colours,  add this to the CSS section of the Custom Widget Editor. The variables set here will affect every related use of those colours.
 ```
 :root {
