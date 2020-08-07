@@ -29,7 +29,7 @@ Add `dailyBars.initialize()` to the JS section, and add the below dependencies t
 
 Script dependencies (must be loaded in this order):
 1. https://d3js.org/d3.v5.min.js
-2. https://drive.google.com/uc?export=view&id=139Xos2xMKLOHM59BANTsXz-RglTAnNPr
+2. https://dato-custom-widgets-js-css.s3.eu-west-2.amazonaws.com/bar-pivot/Bar+Pivot.js
 
 Style dependency:
-1. https://drive.google.com/uc?export=view&id=1xxNh1KFg60eODZlZWZ6l8pF4kN_7y0Dq
+1. https://dato-custom-widgets-js-css.s3.eu-west-2.amazonaws.com/bar-pivot/Bar+Pivot.css
