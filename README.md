@@ -27,8 +27,8 @@ To change the metric colours,  add this to the CSS section of the Custom Widget 
 Add `dailyBars.initialize();` to the JS section, and add the below dependencies to the second tab of the Custom Widget Editor.
 
 Script dependencies (must be loaded in this order):
-1. https://d3js.org/d3.v5.min.js
-2. https://dato-custom-widgets-js-css.s3.eu-west-2.amazonaws.com/bar-pivot/Bar+Pivot.js
+1. `https://d3js.org/d3.v5.min.js`
+2. `https://dato-custom-widgets-js-css.s3.eu-west-2.amazonaws.com/bar-pivot/Bar+Pivot.js`
 
 Style dependency:
-1. https://dato-custom-widgets-js-css.s3.eu-west-2.amazonaws.com/bar-pivot/Bar+Pivot.css
+1. `https://dato-custom-widgets-js-css.s3.eu-west-2.amazonaws.com/bar-pivot/Bar+Pivot.css`
