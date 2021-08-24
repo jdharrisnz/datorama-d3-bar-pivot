@@ -261,7 +261,7 @@ var barPivot = {
 								case 'DATE_WEEK':
 									return d.getWeek();
 								case 'DATE_BI_WEEK':
-									return d.getWeek();
+									return d.getWeek() + ' - ' + new Date(d.getFullYear(), d.getMonth(), d.getDate() + 7).getWeek();
 								case 'DATE_MONTH':
 									return d.toLocaleString('default', { 'month': 'short' });
 								case 'DATE_QUARTER':
