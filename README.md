@@ -6,7 +6,7 @@ This custom widget creates separate partitions for each dimension you add, and v
 ![Preview image](image.png)
 
 ## Set up and Dependencies
-Add `barPivot.initialize();` to the JS section of the Custom Widget Editor, and add the below dependencies to the second tab.
+Add `barPivot.initialize();` to the JS section of the Custom Widget Editor, and add the below links to the dependencies area (second button at the top left of the Custom Widget Editor).
 
 Script dependencies (must be loaded in this order):
 1. `https://d3js.org/d3.v5.min.js`
